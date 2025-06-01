@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Gestionnaire de connexions Excel 1"
+  DTS:DTSID="{65BF7F71-9226-4D6A-9A98-0FD8BE9C8AD5}"
+  DTS:CreationName="EXCEL">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="0"
+      DTS:ConnectRetryInterval="0"
+      DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\ayoub\Downloads\tne_dataset.xlsx;Extended Properties=&quot;Excel 12.0 XML;HDR=YES&quot;;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
